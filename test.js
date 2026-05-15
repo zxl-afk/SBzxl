@@ -1,4 +1,4 @@
-function test() {
+function app1() {
     console.log('sdawdada')
 } hello
 //重新进行了超级修改
